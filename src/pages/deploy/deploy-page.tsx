@@ -74,6 +74,7 @@ export function DeployPage() {
                     <UnsupportedBlockchainWarning blockchain={blockchain}/>
                 </CommentedBlock>
 			}
+
 			{/*<CommentedBlock sx={{ my: 2 }} comment={<CollectionDeployComment/>}>*/}
 			<CommentedBlock sx={{ my: 2 }}>
 				<form onSubmit={handleSubmit(async (formData) => {
