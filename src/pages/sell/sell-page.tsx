@@ -9,6 +9,7 @@ import { CopyToClipboard } from "../../components/common/copy-to-clipboard"
 import { SellPrepareForm } from "./sell-prepare-form"
 import { SellForm } from "./sell-form"
 // import { SellComment } from "./comments/sell-comment"
+
 import { UnsupportedBlockchainWarning } from "../../components/common/unsupported-blockchain-warning"
 import { Blockchain } from "@rarible/api-client"
 import { ConnectorContext } from "../../components/connector/sdk-connection-provider"
