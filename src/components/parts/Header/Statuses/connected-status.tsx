@@ -14,7 +14,7 @@ export interface IConnectedStatusProps {
 }
 
 export function ConnectedStatus({ state }: IConnectedStatusProps) {
-	const {environment} = useContext(EnvironmentContext)
+	// const {environment} = useContext(EnvironmentContext)
 	return (
 		<Stack direction="row" alignItems="center" spacing={2}>
 			{/*<Tooltip title="SDK Connection Environment" placement="bottom">*/}
