@@ -37,8 +37,8 @@
     "lodash": "^4.17.21",
     "node-sass": "^7.0.1",
     "normalize.css": "^8.0.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-hook-form": "^7.27.1",
     "react-router-dom": "6",
     "react-scripts": "^4.0.3",
@@ -51,8 +51,8 @@
     "react-error-overlay": "6.0.9"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
