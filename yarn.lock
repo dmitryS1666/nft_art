@@ -3076,7 +3076,7 @@
   resolved "https://registry.npmjs.org/@types/node/-/node-12.20.45.tgz"
   integrity sha512-1Jg2Qv5tuxBqgQV04+wO5u+wmSHbHgpORCJdeCLM+E+YdPElpdHhgywU+M1V1InL8rfOtpqtOjswk+uXTKwx7w==
 
-"@types/node@^17.0.45":
+"@types/node@^17.0.19":
   version "17.0.45"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.45.tgz#2c0fafd78705e7a18b7906b5201a522719dc5190"
   integrity sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==
