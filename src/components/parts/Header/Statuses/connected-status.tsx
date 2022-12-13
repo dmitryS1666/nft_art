@@ -1,4 +1,4 @@
-import React, { useContext } from "react"
+// import React, { useContext } from "react"
 // import { Box, Chip, IconButton, Stack, Tooltip, Typography } from "@mui/material"
 import { Box, IconButton, Stack, Typography } from "@mui/material"
 import { StateConnected } from "@rarible/connector/build/connection-state"
@@ -6,7 +6,7 @@ import { faLinkSlash } from "@fortawesome/free-solid-svg-icons"
 import { Address } from "../../../common/address"
 import { Icon } from "../../../common/icon"
 import type { IWalletAndAddress } from "../../../connector/wallet-connetion"
-import { EnvironmentContext } from "../../../connector/environment-selector-provider"
+// import { EnvironmentContext } from "../../../connector/environment-selector-provider"
 // import { getEnvironmentName } from "../../../connector/environments"
 
 export interface IConnectedStatusProps {
