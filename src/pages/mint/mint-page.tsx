@@ -18,6 +18,7 @@ function validateConditions(blockchain: Blockchain | undefined): boolean {
 	return !!blockchain
 }
 
+
 export function MintPage() {
 	const connection = useContext(ConnectorContext)
 	const blockchain = connection.sdk?.wallet?.blockchain
